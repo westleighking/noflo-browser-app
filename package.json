@@ -26,7 +26,8 @@
     "noflo-dom": "^0.3.0",
     "noflo-interaction": "^0.3.0",
     "noflo-runtime-postmessage": "^0.10.0",
-    "uuid-by-string": "^2.1.0"
+    "uuid-by-string": "^2.1.0",
+    "noflo-http": "0.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.1.6",
